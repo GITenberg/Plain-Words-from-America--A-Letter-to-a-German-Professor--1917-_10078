@@ -1,0 +1,25 @@
+_repo: Plain-Words-from-America--A-Letter-to-a-German-Professor--1917-_10078
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Douglas Wilson
+    birthdate: 1878
+    deathdate: 1944
+    gutenberg_agent_id: '3298'
+    url: http://www.gutenberg.org/2009/agents/3298
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Public opinion'
+- !lcc 'D501'
+- GITenberg
+title: 'Plain Words from America: A Letter to a German Professor (1917)'
+url: http://www.gutenberg.org/ebooks/10078
